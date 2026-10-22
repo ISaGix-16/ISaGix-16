@@ -63,25 +63,32 @@ Building practical web applications with modern technologies.
 
 ## 🚀 Featured Projects
 
-### [Quorilo](https://quorilo.vercel.app/)
-A blogging platform where users can create and share posts.
+### 📝 [Quorilo — Blogging Platform](https://quorilo.vercel.app/)
+A blogging platform built to let users create and share posts.
 
-**Technologies:** React, Vite, Tailwind CSS, Appwrite
+- **Focus:** Frontend development, authentication, and content management.
+- **Tech Stack:** React, Vite, Tailwind CSS, Appwrite.
+- 🔗 [Live Demo](https://quorilo.vercel.app/) · [Source Code](https://github.com/ISaGix-16/Quorilo)
 
-### [SplitE](https://splite-coral.vercel.app/)
-A full-stack application for managing and splitting expenses.
+### 💸 [SplitE — Expense Splitting App](https://splite-coral.vercel.app/)
+A full-stack application designed to help users manage and split shared expenses.
 
-**Technologies:** React, Next.js, Tailwind CSS, Convex, Prisma, Clerk
+- **Focus:** Full-stack development and expense management.
+- **Tech Stack:** React, Next.js, Tailwind CSS, Convex, Prisma, Clerk.
+- 🔗 [Live Demo](https://splite-coral.vercel.app/) · [Source Code](https://github.com/ISaGix-16/SplitE)
 
-### [MediBridge](https://medi-bridge-steel-iota.vercel.app/)
+### 🏥 [MediBridge — Healthcare Application](https://medi-bridge-steel-iota.vercel.app/)
 A full-stack web application focused on healthcare.
 
-**Technologies:** Next.js, Prisma
+- **Focus:** Full-stack application development and database integration.
+- **Tech Stack:** Next.js, Prisma.
+- 🔗 [Live Demo](https://medi-bridge-steel-iota.vercel.app/) · [Source Code](https://github.com/ISaGix-16/MediBridge)
 
-### [My Developer Portfolio](https://aman-arya.vercel.app/)
-My personal portfolio showcasing my projects, skills, and background.
+### 🌐 [Developer Portfolio](https://aman-arya.vercel.app/)
+My personal portfolio showcasing my background, technical skills, and software projects.
 
-**Technologies:** Next.js, TypeScript, Tailwind CSS
+- **Tech Stack:** Next.js, TypeScript, Tailwind CSS.
+- 🔗 [Live Website](https://aman-arya.vercel.app/) · [Source Code](https://github.com/ISaGix-16/my-developer-portfolio)
 
 ---
 

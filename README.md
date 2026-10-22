@@ -4,12 +4,12 @@
 
 I'm a software developer interested in building practical, user-focused web applications. I enjoy working across the frontend and backend, learning new technologies, and turning ideas into functional products.
 
-- 🎓 B.Tech in Mechanical & Aerospace Engineering from IIT Hyderabad
-- 💻 Interested in Full-Stack Development and Software Engineering
-- 🚀 Building projects with React, Next.js, Node.js, and modern web technologies
-- 🌱 Continuously improving my problem-solving and software development skills
-- 🌐 **Portfolio:** [aman-arya.vercel.app](https://aman-arya.vercel.app/)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/aman-arya-0ab02127b/)
+- B.Tech in Mechanical & Aerospace Engineering from IIT Hyderabad
+- Interested in Full-Stack Development and Software Engineering
+- Building projects with React, Next.js, Node.js, and modern web technologies
+- Continuously improving my problem-solving and software development skills
+- **Portfolio:** [aman-arya.vercel.app](https://aman-arya.vercel.app/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/aman-arya-0ab02127b/)
 
 ---
 

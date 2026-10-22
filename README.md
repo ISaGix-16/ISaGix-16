@@ -1,15 +1,26 @@
-# Hi, I'm Aman Arya 👋
+<div align="center">
 
-### Software Developer | IIT Hyderabad Graduate
+# Aman Arya
 
-I'm a software developer interested in building practical, user-focused web applications. I enjoy working across the frontend and backend, learning new technologies, and turning ideas into functional products.
+### Software Developer | Full-Stack Development
 
-- B.Tech in Mechanical & Aerospace Engineering from IIT Hyderabad
-- Interested in Full-Stack Development and Software Engineering
-- Building projects with React, Next.js, Node.js, and modern web technologies
-- Continuously improving my problem-solving and software development skills
-- **Portfolio:** [aman-arya.vercel.app](https://aman-arya.vercel.app/)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/aman-arya-0ab02127b/)
+Building practical web applications with modern technologies.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://aman-arya.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-arya-0ab02127b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ISaGix-16)
+
+</div>
+
+---
+
+- B.Tech in Mechanical & Aerospace Engineering — IIT Hyderabad
+
+- Interested in full-stack development and software engineering.
+
+- Building projects with React, Next.js, Node.js, and modern web technologies.
+
+- Continuously improving my problem-solving and development skills.
 
 ---
 
